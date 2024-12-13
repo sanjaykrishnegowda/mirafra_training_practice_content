@@ -1,0 +1,16 @@
+•	Introduction to Advanced Array Structures
+•	Dynamic Arrays (Vectors)
+-	Initializing dynamically allocated array
+-	Resize dynamic array
+-	Dynamically deleting arrays
+-	Factors impacting performance of dynamic arrays
+•	Multi-dimensional Arrays
+-	Overview
+-	Initializing multi-dimensional array
+-	Accessing multi-dimensional array
+-	Change elements of a multi-dimensional array
+-	Traverse a multi-dimensional array
+-	Input and output multi-dimensional array 
+•	Sparse Arrays
+-	Linked list representation of Sparse array
+-	Array representation of Sparse array
