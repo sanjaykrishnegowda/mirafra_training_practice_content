@@ -1,4 +1,2 @@
-•	AVL Trees
-•	Red-Black Trees
 •	B Trees
 •	B+ Trees
