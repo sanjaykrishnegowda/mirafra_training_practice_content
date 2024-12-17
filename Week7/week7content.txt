@@ -1,2 +1,6 @@
-•	B Trees
-•	B+ Trees
+• B Trees
+• Graph
+• types of graph
+• graph implementation 
+  - Adjacency matrix representation (both undirected and directed)
+  - Adjacency list representation	(both undirected and directed)
