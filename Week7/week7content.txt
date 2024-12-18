@@ -3,4 +3,10 @@
 • types of graph
 • graph implementation 
   - Adjacency matrix representation (both undirected and directed)
-  - Adjacency list representation	(both undirected and directed)
+  - Adjacency list representation   (both undirected and directed)
+• BFS
+• DFS 
+• Finding cyclic in graph
+• spanning tree
+• Prim's algorithm
+• Kruskal's algorithm
