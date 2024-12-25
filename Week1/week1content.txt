@@ -1,5 +1,5 @@
 Oops Concepts
-•	Encapsulation, Data Abstraction, Polymorphism, Inheritance, Objects, Classes
+•	Encapsulation, Data Abstraction, Polymorphism, Inheritance, Objects, Classes 
 •	Overloading, Overriding, Friend classes,friend functions, Operator overloading
 •	Arrays, Structure, Pointers
 •	Standard Template Libraries: Introduction
